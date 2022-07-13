@@ -1,0 +1,14 @@
+location:
+  address: 88 Chesterville Rd, Cheltenham VIC 3192
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50334.33274920064!2d144.98765015820314!3d-37.95621899999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d0c76371149%3A0x7f4668cedea89e75!2sDrip%20Cafe!5e0!3m2!1sen!2sau!4v1657694421809!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/dripcafemelbourne
+  - platform: Instagram
+    link: https://www.instagram.com/dripcafemelbourne/?hl=en
+  - platform: email
+    link: mailto:hello@dripcafe.com.au
+  - platform: phone
+    link: tel:0395154773

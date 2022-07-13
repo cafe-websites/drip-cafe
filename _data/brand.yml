@@ -1,0 +1,5 @@
+name: Drip Cafe
+description: Drip Cafe is the perfect pillar of hospitality, great food, good vibes and amazing service.
+color_profile: light  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#03093B"
